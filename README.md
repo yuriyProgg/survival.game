@@ -1,2 +1,2 @@
 # survival.game
-Survivla Game on PyGame
+Survival Game on PyGame
